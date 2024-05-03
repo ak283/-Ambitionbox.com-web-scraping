@@ -5,9 +5,15 @@ For this project python request library is used to scrape the HTML content of th
 This project follows the following steps:-
 
 Importing all the necessary library like pandas, Numpy, requests, BeautifulSoup.
+
 Creating a request to fetch all the html tags from the AmbitionBox web page.
+
 Parsing the fetched tags using BeautifulSoup library.
-Collecting the required company's information using HTML tag
+
+Collecting the required company's information using HTML tag.
+
 Creating a DataFrame of all the collected data.
+
 Performing data analysis of the collected data.
+
 Exporting the collected data to the csv file.
